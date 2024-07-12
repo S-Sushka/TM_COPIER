@@ -13,7 +13,7 @@
 Sketch > Include Library > Manage libraries. Search `OneWire` by `Paul Stoffregen`
 #### 4) Upload sketch to Arduino
 
-## >>> HOW TO GET STARTED WORK WITH PCB COPIER
+## >>> HOW TO GET STARTED WITH PCB COPIER
 #### 1) Assemble the PCB using TM_COPIER.lay6 (OPEN WITH Sprint-layout 6)
 #### 2) Open TM_COPIER.ino
 #### 3) Add "Adafruit_SSD1306" & "Adafruit_GFX" libraries
