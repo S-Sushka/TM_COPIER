@@ -8,7 +8,7 @@
 
 ## >>> HOW TO WORK WITH SERIAL COPIER
 #### 1) Assemble the device according with TM_COPIER_USING_SERIAL/Scheme.jpg
-#### 2) Open TM_COPIER_USING_SERIAL.ino
+#### 2) Open TM_COPIER_USING_SERIAL/TM_COPIER_USING_SERIAL.ino
 #### 3) Add "OneWire" library
 Sketch > Include Library > Manage libraries. Search `OneWire` by `Paul Stoffregen`
 #### 4) Upload sketch to Arduino
